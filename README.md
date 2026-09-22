@@ -1,7 +1,7 @@
 ## Pumiput Chaichat
 
 Software Engineer | Bangkok, Thailand
-B.Sc., Thammasat University
+, Thammasat University
 
 Currently open to new opportunities.
 
