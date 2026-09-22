@@ -38,25 +38,21 @@ My goal is to continue growing in the field of Software Engineering, not only by
 
 ---
 
-### Selected work
-
-ระบบภายในที่ผมสร้างและดูแลอยู่ที่ Supavut Group โดยมีผู้ใช้งานจริงในองค์กร
-
 #### ระบบทั้งหมด
 
-ประเมินผลประจำปี 5S Areas และ Time & Leave Approval เป็นแอปที่อยู่ภายใน Supavut Insight จึงลิงก์ไปที่ repository เดียวกัน
+ระบบที่ผมพัฒนาและดูแลภายในองค์กร ได้แก่
 
-| Project | What it solves | Stack |
-|---|---|---|
-| [Supavut Insight](https://github.com/PumiputCG/supavut-insight-hr-hub) | HR hub ที่รวมระบบ HR ทั้งหมดไว้ในบัญชีเดียว พนักงานล็อกอินครั้งเดียวแล้วเห็นเฉพาะระบบที่เกี่ยวข้องกับตัวเอง | Laravel 12, MySQL, ERP integration (SQL Server) |
-| [ประเมินผลประจำปี](https://github.com/PumiputCG/supavut-insight-hr-hub) | ประเมินผลพนักงานประจำปี ตั้งรอบและชุดคำถามเอง พนักงานประเมินตัวเองก่อนหัวหน้าให้คะแนน แล้วล็อกรอบเมื่อปิดเพื่อไม่ให้แก้ย้อนหลัง | Laravel 12, MySQL, ERP integration (SQL Server) |
-| [5S Areas](https://github.com/PumiputCG/supavut-insight-hr-hub) | ตรวจพื้นที่ 5ส ทั้งโรงงาน วางผังพื้นที่ กำหนดผู้รับผิดชอบรายโซน บันทึกผลตรวจพร้อมแนบรูป และออกรายงานประจำรอบ | Laravel 12, MySQL, ERP integration (SQL Server) |
-| [Time and Leave Approval](https://github.com/PumiputCG/supavut-insight-hr-hub) | ขอทำงานล่วงเวลาและยื่นใบลาบนเว็บ เดินตามลำดับอนุมัติจริงขององค์กร ติดตามสถานะได้ทุกขั้น และออกรายงานลา 75 | Laravel 12, MySQL, ERP integration (SQL Server) |
-| [SBMS](https://github.com/PumiputCG/supavut-bms) | แดชบอร์ดงบประมาณที่แยกงบที่ตั้งไว้ ยอดสั่งซื้อ และเงินที่ใช้จริงออกจากกัน ทุกตัวเลขเปิดดูเอกสารต้นทางได้ | Laravel 12, MySQL, ERP integration |
-| [QuoteCompare](https://github.com/PumiputCG/quote-compare) | ย้ายใบเปรียบเทียบราคาผู้ขายจาก Excel และลายเซ็นกระดาษขึ้นเว็บ โดยคงรูปแบบเอกสารเดิมไว้ทุกช่อง | Laravel 12, MySQL |
-| [OKR and KPI System](https://github.com/PumiputCG/okr-kpi-system) | ติดตาม OKR และ KPI รายเดือนข้ามแผนก แทนการที่แต่ละแผนกถือไฟล์ของตัวเอง | Laravel 12, MySQL |
-| [Penalty and Bonus](https://github.com/PumiputCG/supavut-penalty-bonus) | ระบบคะแนนพฤติกรรมพนักงานที่ทุกคะแนนมีประวัติครบ ตอบได้ว่าใครเป็นคนปรับ เมื่อไหร่ และด้วยเหตุผลอะไร | Laravel 12, MySQL |
-| [SI MENU](https://github.com/PumiputCG/si-menu-intranet) | พอร์ทัลพนักงานที่รวมระบบภายใน ประกาศบริษัท และทะเบียนเอกสาร รองรับไทย อังกฤษ และพม่า | PHP 8, Tailwind CSS, MS SQL |
+| Project | What it solves |
+|---|---|
+| [Supavut Insight](https://github.com/PumiputCG/supavut-insight-hr-hub) | HR hub ที่รวมระบบ HR ทั้งหมดไว้ในบัญชีเดียว พนักงานล็อกอินครั้งเดียวแล้วเห็นเฉพาะระบบที่เกี่ยวข้องกับตัวเอง |
+| [ประเมินผลประจำปี](https://github.com/PumiputCG/supavut-insight-hr-hub) | ประเมินผลพนักงานประจำปี ตั้งรอบและชุดคำถามเอง พนักงานประเมินตัวเองก่อนหัวหน้าให้คะแนน แล้วล็อกรอบเมื่อปิดเพื่อไม่ให้แก้ย้อนหลัง |
+| [5S Areas](https://github.com/PumiputCG/supavut-insight-hr-hub) | ตรวจพื้นที่ 5ส ทั้งโรงงาน วางผังพื้นที่ กำหนดผู้รับผิดชอบรายโซน บันทึกผลตรวจพร้อมแนบรูป และออกรายงานประจำรอบ |
+| [Time and Leave Approval](https://github.com/PumiputCG/supavut-insight-hr-hub) | ขอทำงานล่วงเวลาและยื่นใบลาบนเว็บ เดินตามลำดับอนุมัติจริงขององค์กร ติดตามสถานะได้ทุกขั้น และออกรายงานลา 75 |
+| [SBMS](https://github.com/PumiputCG/supavut-bms) | แดชบอร์ดงบประมาณที่แยกงบที่ตั้งไว้ ยอดสั่งซื้อ และเงินที่ใช้จริงออกจากกัน ทุกตัวเลขเปิดดูเอกสารต้นทางได้ |
+| [QuoteCompare](https://github.com/PumiputCG/quote-compare) | ย้ายใบเปรียบเทียบราคาผู้ขายจาก Excel และลายเซ็นกระดาษขึ้นเว็บ โดยคงรูปแบบเอกสารเดิมไว้ทุกช่อง |
+| [OKR and KPI System](https://github.com/PumiputCG/okr-kpi-system) | ติดตาม OKR และ KPI รายเดือนข้ามแผนก แทนการที่แต่ละแผนกถือไฟล์ของตัวเอง |
+| [Penalty and Bonus](https://github.com/PumiputCG/supavut-penalty-bonus) | ระบบคะแนนพฤติกรรมพนักงานที่ทุกคะแนนมีประวัติครบ ตอบได้ว่าใครเป็นคนปรับ เมื่อไหร่ และด้วยเหตุผลอะไร |
+| [SI MENU](https://github.com/PumiputCG/si-menu-intranet) | พอร์ทัลพนักงานที่รวมระบบภายใน ประกาศบริษัท และทะเบียนเอกสาร รองรับไทย อังกฤษ และพม่า |
 
 ดูทั้งหมดได้ที่ [repositories](https://github.com/PumiputCG?tab=repositories)
 
