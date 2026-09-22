@@ -1,7 +1,7 @@
 ## Pumiput Chaichat
 
-Software Engineer | Bangkok, Thailand
-, Thammasat University
+Software Engineer | Thailand
+Computer Science, Thammasat University
 
 Currently open to new opportunities.
 
@@ -9,17 +9,33 @@ Currently open to new opportunities.
 
 ### About
 
-ผมเป็น Software Engineer ที่ดูแลงานพัฒนาแอปพลิเคชันคนเดียวทั้งระบบ ตั้งแต่คุยกับผู้ใช้เพื่อเก็บความต้องการ ออกแบบฐานข้อมูล เขียนทั้ง backend และ frontend ทำ UI ไปจนถึง deploy ขึ้นเซิร์ฟเวอร์และดูแลต่อหลังใช้งานจริง
+สวัสดีครับ ผมชื่อ ภูมิพัฒน์ หรือเรียกว่า เกม ก็ได้ครับ ผมจบการศึกษาสาขาวิทยาการคอมพิวเตอร์จากมหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต ปัจจุบันทำงานในตำแหน่ง Software Engineer ให้กับบริษัทผลิตชิ้นส่วนรถยนต์แห่งหนึ่งในภาคตะวันออก
 
-งานส่วนใหญ่ที่ผ่านมาคือระบบภายในองค์กรที่มีคนใช้ทุกวัน ซึ่งทำให้ผมได้เรียนรู้เรื่องที่หาจากบทเรียนไม่ได้ เช่น การออกแบบลำดับอนุมัติให้ตรงกับสายบังคับบัญชาจริง การทำให้ตัวเลขบนแดชบอร์ดตรวจย้อนกลับไปหาเอกสารต้นทางได้ และการเปลี่ยนกระบวนการที่คนคุ้นเคยมาสิบปีโดยไม่ทำให้เขาต้องเริ่มเรียนรู้ใหม่ทั้งหมด
+งานที่ผมรับผิดชอบค่อนข้างครอบคลุมตั้งแต่ต้นจนจบ ตั้งแต่การพูดคุยกับผู้ใช้งานและหัวหน้าแต่ละแผนกเพื่อเก็บ Requirement วิเคราะห์ปัญหา ออกแบบฐานข้อมูล วางโครงสร้างระบบ พัฒนา Frontend และ Backend ไปจนถึงการ Deploy ระบบขึ้น Server ของบริษัท รวมถึงดูแลและปรับปรุงระบบหลังจากนำไปใช้งานจริง
 
-ผลงานชิ้นหนึ่งของผมได้รับรางวัลชนะเลิศจากการเป็นซอฟต์แวร์ที่ช่วยลดต้นทุนขององค์กรได้จริง นอกจากงานพัฒนา ผมยังเป็นผู้จัดอบรมให้พนักงานภายในองค์กรด้วย ทั้งการใช้งานระบบที่ผมสร้างและการอบรมเครื่องมือวิเคราะห์ข้อมูลอย่าง Power BI
+เวลาพัฒนาระบบ ผมจะคิดอยู่เสมอว่า ระบบที่สร้างขึ้นจะช่วยลดงาน ลดเวลา หรือลดการใช้ทรัพยากรขององค์กรได้อย่างไร และที่สำคัญคือผู้ใช้งานต้องสามารถใช้งานได้ง่าย เพราะหลายระบบเป็นการเปลี่ยนจากกระบวนการทำงานแบบเดิมที่พนักงานคุ้นเคย เช่น การเปลี่ยนจากการเดินเอกสารเพื่อขอลายเซ็นอนุมัติ มาเป็น Electronic Approval หรือการเปลี่ยนจากการประเมินผลงานประจำปีด้วยเอกสารและการคำนวณแบบเดิม มาเป็นระบบออนไลน์ที่สามารถคำนวณและติดตามผลได้จากระบบเดียว
 
-I work as a software engineer handling entire applications on my own, from gathering requirements with the people who will use the system, through database design, backend, frontend and UI, to deployment and ongoing maintenance in production.
+สิ่งที่ผมได้เรียนรู้จากการทำงานจริงจึงไม่ได้มีเพียงเรื่องการเขียนโปรแกรม แต่ยังรวมถึง การสื่อสารกับผู้ใช้งาน การเข้าใจกระบวนการทำงานของแต่ละแผนก การเข้าใจสภาพแวดล้อมขององค์กร และการออกแบบ Software ให้เหมาะกับคนที่ต้องใช้งานจริง ซึ่งผมมองว่าสิ่งเหล่านี้เป็นส่วนสำคัญของการเป็น Software Engineer
 
-Most of my work has been internal business systems that people depend on daily. That has taught me things you do not learn from tutorials: how to model an approval chain so it matches the real chain of command, how to keep every figure on a dashboard traceable back to its source document, and how to replace a process people have used for ten years without making them relearn everything.
+หนึ่งในผลงานที่ผมภูมิใจคือ SAssessment ระบบประเมินผลพนักงานประจำปีที่ผมพัฒนาขึ้นเพื่อช่วยลดขั้นตอนและต้นทุนในการทำงาน โดยผลงานนี้ได้รับ รางวัลชนะเลิศจากกิจกรรม Kaizen ภายในองค์กร ซึ่งทำให้ผมเห็นชัดเจนยิ่งขึ้นว่า Software ที่เราพัฒนาสามารถสร้างผลลัพธ์และคุณค่าให้กับองค์กรได้จริง
 
-One of the systems I built won first prize for measurably reducing operating costs. Alongside development, I also run internal training sessions for staff, covering both the systems I build and data tools such as Power BI.
+นอกจากงานพัฒนาระบบแล้ว ผมยังมีโอกาสเป็นผู้ถ่ายทอดความรู้ให้กับพนักงานภายในองค์กร โดยผมได้รับโอกาสเข้าร่วมอบรม Power BI และนำความรู้ที่ได้รับกลับมาจัดอบรมให้กับพนักงาน เพื่อให้สามารถนำข้อมูลไปวิเคราะห์และประยุกต์ใช้กับงานของตัวเองได้
+
+เป้าหมายของผมคือการเติบโตในสาย Software Engineering ต่อไป ไม่ใช่แค่ในด้าน Technical Skills แต่รวมถึงการคิดวิเคราะห์ การสื่อสาร บุคลิกภาพ และการนำเสนอ เพื่อให้ผมสามารถพัฒนาซอฟต์แวร์ที่ไม่ใช่เพียงแค่ “ใช้งานได้” แต่สามารถ แก้ปัญหาและสร้างคุณค่าให้กับธุรกิจได้จริง
+
+Hello, my name is Phumiphat, but you can call me Game. I graduated with a degree in Computer Science from Thammasat University, Rangsit Campus. I am currently working as a Software Engineer at an automotive parts manufacturing company in Eastern Thailand.
+
+My responsibilities cover almost the entire software development process. I work directly with users and department managers to gather requirements, analyze problems, design databases and system architecture, develop both Frontend and Backend, deploy applications to the company server, and continue maintaining and improving them after they go live.
+
+Whenever I develop a system, I always ask myself how it can reduce workload, save time, or reduce the company’s use of resources. At the same time, the system has to be easy for employees to use. Many of the projects I work on involve transforming processes that people have been familiar with for years. For example, replacing physical document approval with Electronic Approval, or transforming an annual employee evaluation process from paper-based forms and manual calculations into an online system where scores can be calculated and tracked in one place.
+
+Working as a Software Engineer has taught me much more than just programming. I have learned how to communicate with users, understand the workflows of different departments, understand the company environment, and design software around the people who actually use it. I believe these skills are an important part of being a Software Engineer.
+
+One of the projects I am most proud of is SAssessment, an annual employee performance evaluation system that I developed to reduce working steps and operational costs. The project received 1st Place in an internal Kaizen competition, which showed me that the software I build can create measurable value for the organization.
+
+In addition to software development, I have also had the opportunity to share knowledge with employees within the company. I attended Power BI training and later brought that knowledge back to conduct internal training sessions, helping employees learn how to analyze data and apply it to their daily work.
+
+My goal is to continue growing in the field of Software Engineering, not only by improving my technical skills, but also by developing my analytical thinking, communication, presentation, and professional skills. I want to build software that does more than simply “work” — I want to create solutions that solve real problems and deliver real value to the business.
 
 ---
 
