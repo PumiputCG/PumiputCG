@@ -44,15 +44,21 @@ My goal is to continue growing in the field of Software Engineering, not only by
 
 | Project | What it solves |
 |---|---|
+| [FraudCheck](https://github.com/PumiputCG/FraudCheck_Project) | เว็บค้นหาบัญชีมิจฉาชีพที่ถูกแจ้งไว้ ให้ผู้ใช้ตรวจสอบก่อนโอนเงิน |
+| [QuickCV](https://github.com/PumiputCG/QuickCV_Project) | กรอกข้อมูลส่วนตัวแล้วสร้าง CV พร้อมใช้สมัครงานได้ทันที |
 | [S-Insight](https://github.com/PumiputCG/s-insight) | HR hub ที่รวมระบบ HR ทั้งหมดไว้ในบัญชีเดียว พนักงานล็อกอินครั้งเดียวแล้วเห็นเฉพาะระบบที่เกี่ยวข้องกับตัวเอง |
-| [SAssessment](https://github.com/PumiputCG/s-insight) | ประเมินผลพนักงานประจำปี ตั้งรอบและชุดคำถามเอง พนักงานประเมินตัวเองก่อนหัวหน้าให้คะแนน แล้วล็อกรอบเมื่อปิดเพื่อไม่ให้แก้ย้อนหลัง |
+| [SAssessment](https://github.com/PumiputCG/sassessment) | ประเมินผลพนักงานประจำปี นำเข้ารายชื่อจาก Excel พนักงานประเมินตัวเองก่อนหัวหน้าให้คะแนน แล้วล็อกรอบเมื่อปิดเพื่อไม่ให้แก้ย้อนหลัง |
+| [Penalty and Bonus](https://github.com/PumiputCG/penalty-bonus) | ระบบคะแนนพฤติกรรมพนักงานที่ทุกคะแนนมีประวัติครบ ตอบได้ว่าใครเป็นคนปรับ เมื่อไหร่ และด้วยเหตุผลอะไร |
+| [S-Insight Showcase](https://github.com/PumiputCG/s-insight-showcase) | เว็บรวมระบบภายในทั้งหมดไว้หน้าเดียว กดเข้าแต่ละระบบได้ทันที |
+| [OKR and KPI System](https://github.com/PumiputCG/okr-kpi-system) | ติดตาม OKR และ KPI รายเดือนข้ามแผนก แทนการที่แต่ละแผนกถือไฟล์ของตัวเอง |
+| [S-Portal](https://github.com/PumiputCG/s-portal) | พอร์ทัลพนักงานรุ่นแรก รวมลิงก์ระบบภายในและประกาศบริษัทไว้ที่เดียว ต่อยอดเป็น SI MENU ในภายหลัง |
+| [OKR-KPI Presentation](https://github.com/PumiputCG/okr-kpi-prototype) | หน้าเว็บนำเสนอระบบ OKR-KPI ใช้อบรมผู้ใช้งาน อธิบายขั้นตอนตั้งเป้าหมาย ส่งรายงาน ตรวจรายงาน และดูผลสรุป |
+| [Personal Website](https://github.com/PumiputCG/pumiput-portfolio) | เว็บส่วนตัวสองภาษา เล่าเรื่องผ่านภาพถ่าย เขียนด้วย PHP และ JavaScript โดยไม่ใช้เฟรมเวิร์ก |
+| [SI MENU](https://github.com/PumiputCG/si-menu-intranet) | พอร์ทัลพนักงานที่รวมระบบภายใน ประกาศบริษัท และทะเบียนเอกสาร รองรับไทย อังกฤษ และพม่า |
 | [5S Areas](https://github.com/PumiputCG/s-insight) | ตรวจพื้นที่ 5ส ทั้งโรงงาน วางผังพื้นที่ กำหนดผู้รับผิดชอบรายโซน บันทึกผลตรวจพร้อมแนบรูป และออกรายงานประจำรอบ |
+| [QuoteCompare](https://github.com/PumiputCG/quote-compare) | ย้ายใบเปรียบเทียบราคาผู้ขายจาก Excel และลายเซ็นกระดาษขึ้นเว็บ โดยคงรูปแบบเอกสารเดิมไว้ทุกช่อง |
 | [Time and Leave Approval](https://github.com/PumiputCG/s-insight) | ขอทำงานล่วงเวลาและยื่นใบลาบนเว็บ เดินตามลำดับอนุมัติจริงขององค์กร ติดตามสถานะได้ทุกขั้น และออกรายงานลา 75 |
 | [SBMS](https://github.com/PumiputCG/sbms) | แดชบอร์ดงบประมาณที่แยกงบที่ตั้งไว้ ยอดสั่งซื้อ และเงินที่ใช้จริงออกจากกัน ทุกตัวเลขเปิดดูเอกสารต้นทางได้ |
-| [QuoteCompare](https://github.com/PumiputCG/quote-compare) | ย้ายใบเปรียบเทียบราคาผู้ขายจาก Excel และลายเซ็นกระดาษขึ้นเว็บ โดยคงรูปแบบเอกสารเดิมไว้ทุกช่อง |
-| [OKR and KPI System](https://github.com/PumiputCG/okr-kpi-system) | ติดตาม OKR และ KPI รายเดือนข้ามแผนก แทนการที่แต่ละแผนกถือไฟล์ของตัวเอง |
-| [Penalty and Bonus](https://github.com/PumiputCG/penalty-bonus) | ระบบคะแนนพฤติกรรมพนักงานที่ทุกคะแนนมีประวัติครบ ตอบได้ว่าใครเป็นคนปรับ เมื่อไหร่ และด้วยเหตุผลอะไร |
-| [SI MENU](https://github.com/PumiputCG/si-menu-intranet) | พอร์ทัลพนักงานที่รวมระบบภายใน ประกาศบริษัท และทะเบียนเอกสาร รองรับไทย อังกฤษ และพม่า |
 
 ดูทั้งหมดได้ที่ [repositories](https://github.com/PumiputCG?tab=repositories)
 
@@ -77,21 +83,13 @@ My goal is to continue growing in the field of Software Engineering, not only by
 
 ### Tech
 
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), Blade, Tailwind CSS, Bootstrap 5, Alpine.js, React, Vite, Axios, Chart.js, SweetAlert2, AOS, Bootstrap Icons, Font Awesome, Lucide Icons, Responsive Design, PWA
+**Frontend:** HTML5, CSS3, JavaScript, Blade, Tailwind CSS, Bootstrap 5, Alpine.js, React, Vite, Axios, Chart.js, SweetAlert2, AOS, Bootstrap Icons, Font Awesome, Lucide
 
-**Backend:** PHP 8, Laravel 12, Eloquent ORM, Middleware, Queue and Jobs, Task Scheduling, Mail Notification, Artisan Commands, Webhook, Cache, File Storage, Localization (TH, EN, MY), QR Code, Laravel Excel, PhpSpreadsheet
+**Backend:** PHP 8, Laravel 12, Eloquent ORM, Laravel Excel, PhpSpreadsheet, PHPUnit
 
-**Database:** MySQL, Microsoft SQL Server, ODBC, Database Design, Migrations, ERP Integration
+**Database:** MySQL, Microsoft SQL Server, ODBC
 
-**Tools and Others:** Git, GitHub, Composer, npm, XAMPP, Apache, VS Code, PowerShell, PHPUnit, Mockery, Laravel Pint, Figma, Power BI
-
----
-
-### A note on these repositories
-
-Repository เหล่านี้เป็นโค้ดอย่างเดียว ฐานข้อมูล ไฟล์ที่ผู้ใช้อัปโหลด และภาพหน้าจอที่มีข้อมูลพนักงานจริงถูกนำออกทั้งหมดก่อนเผยแพร่ เนื่องจากเป็นระบบที่ใช้งานอยู่จริงและมีข้อมูลส่วนบุคคลอยู่ภายใน หากต้องการดูระบบทำงานจริงหรือคุยรายละเอียดเชิงเทคนิค ติดต่อผมได้โดยตรง
-
-These repositories contain source code only. Databases, user uploads and any screenshots showing real employee data were removed before publishing, since these are live systems holding personal data. I am happy to walk through a working demo on request.
+**Tools and Others:** Git, GitHub, Composer, npm, XAMPP, Apache, VS Code, PowerShell, Laravel Pint, Figma, Power BI
 
 ---
 
