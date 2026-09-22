@@ -44,14 +44,14 @@ My goal is to continue growing in the field of Software Engineering, not only by
 
 | Project | What it solves |
 |---|---|
-| [Supavut Insight](https://github.com/PumiputCG/supavut-insight-hr-hub) | HR hub ที่รวมระบบ HR ทั้งหมดไว้ในบัญชีเดียว พนักงานล็อกอินครั้งเดียวแล้วเห็นเฉพาะระบบที่เกี่ยวข้องกับตัวเอง |
-| [ประเมินผลประจำปี](https://github.com/PumiputCG/supavut-insight-hr-hub) | ประเมินผลพนักงานประจำปี ตั้งรอบและชุดคำถามเอง พนักงานประเมินตัวเองก่อนหัวหน้าให้คะแนน แล้วล็อกรอบเมื่อปิดเพื่อไม่ให้แก้ย้อนหลัง |
-| [5S Areas](https://github.com/PumiputCG/supavut-insight-hr-hub) | ตรวจพื้นที่ 5ส ทั้งโรงงาน วางผังพื้นที่ กำหนดผู้รับผิดชอบรายโซน บันทึกผลตรวจพร้อมแนบรูป และออกรายงานประจำรอบ |
-| [Time and Leave Approval](https://github.com/PumiputCG/supavut-insight-hr-hub) | ขอทำงานล่วงเวลาและยื่นใบลาบนเว็บ เดินตามลำดับอนุมัติจริงขององค์กร ติดตามสถานะได้ทุกขั้น และออกรายงานลา 75 |
-| [SBMS](https://github.com/PumiputCG/supavut-bms) | แดชบอร์ดงบประมาณที่แยกงบที่ตั้งไว้ ยอดสั่งซื้อ และเงินที่ใช้จริงออกจากกัน ทุกตัวเลขเปิดดูเอกสารต้นทางได้ |
+| [S-Insight](https://github.com/PumiputCG/s-insight) | HR hub ที่รวมระบบ HR ทั้งหมดไว้ในบัญชีเดียว พนักงานล็อกอินครั้งเดียวแล้วเห็นเฉพาะระบบที่เกี่ยวข้องกับตัวเอง |
+| [SAssessment](https://github.com/PumiputCG/s-insight) | ประเมินผลพนักงานประจำปี ตั้งรอบและชุดคำถามเอง พนักงานประเมินตัวเองก่อนหัวหน้าให้คะแนน แล้วล็อกรอบเมื่อปิดเพื่อไม่ให้แก้ย้อนหลัง |
+| [5S Areas](https://github.com/PumiputCG/s-insight) | ตรวจพื้นที่ 5ส ทั้งโรงงาน วางผังพื้นที่ กำหนดผู้รับผิดชอบรายโซน บันทึกผลตรวจพร้อมแนบรูป และออกรายงานประจำรอบ |
+| [Time and Leave Approval](https://github.com/PumiputCG/s-insight) | ขอทำงานล่วงเวลาและยื่นใบลาบนเว็บ เดินตามลำดับอนุมัติจริงขององค์กร ติดตามสถานะได้ทุกขั้น และออกรายงานลา 75 |
+| [SBMS](https://github.com/PumiputCG/sbms) | แดชบอร์ดงบประมาณที่แยกงบที่ตั้งไว้ ยอดสั่งซื้อ และเงินที่ใช้จริงออกจากกัน ทุกตัวเลขเปิดดูเอกสารต้นทางได้ |
 | [QuoteCompare](https://github.com/PumiputCG/quote-compare) | ย้ายใบเปรียบเทียบราคาผู้ขายจาก Excel และลายเซ็นกระดาษขึ้นเว็บ โดยคงรูปแบบเอกสารเดิมไว้ทุกช่อง |
 | [OKR and KPI System](https://github.com/PumiputCG/okr-kpi-system) | ติดตาม OKR และ KPI รายเดือนข้ามแผนก แทนการที่แต่ละแผนกถือไฟล์ของตัวเอง |
-| [Penalty and Bonus](https://github.com/PumiputCG/supavut-penalty-bonus) | ระบบคะแนนพฤติกรรมพนักงานที่ทุกคะแนนมีประวัติครบ ตอบได้ว่าใครเป็นคนปรับ เมื่อไหร่ และด้วยเหตุผลอะไร |
+| [Penalty and Bonus](https://github.com/PumiputCG/penalty-bonus) | ระบบคะแนนพฤติกรรมพนักงานที่ทุกคะแนนมีประวัติครบ ตอบได้ว่าใครเป็นคนปรับ เมื่อไหร่ และด้วยเหตุผลอะไร |
 | [SI MENU](https://github.com/PumiputCG/si-menu-intranet) | พอร์ทัลพนักงานที่รวมระบบภายใน ประกาศบริษัท และทะเบียนเอกสาร รองรับไทย อังกฤษ และพม่า |
 
 ดูทั้งหมดได้ที่ [repositories](https://github.com/PumiputCG?tab=repositories)
@@ -60,19 +60,30 @@ My goal is to continue growing in the field of Software Engineering, not only by
 
 ### How I work
 
-- ออกแบบตามกระบวนการจริงขององค์กร ไม่ใช่ตามที่คิดว่าควรจะเป็น
-- ยอดรวมทุกตัวต้องกระทบยอดกับรายละเอียดได้ ถ้าไม่ตรงต้องแสดงให้เห็นว่าต่างตรงไหน ไม่ใช่ซ่อนไว้
-- กำหนดขอบเขตข้อมูลให้ชัดตั้งแต่ต้น เช่น Insight ดึงเฉพาะข้อมูลพนักงานที่ได้รับอนุมัติ และไม่แตะข้อมูลเงินเดือนโดยตั้งใจ
-- รองรับหลายภาษาตั้งแต่เริ่มออกแบบ เพราะผู้ใช้จริงในโรงงานอ่านคนละภาษากัน
-- ให้ความสำคัญกับ accessibility ตามมาตรฐาน WCAG AA ทั้งการใช้คีย์บอร์ดและ reduced motion
+1. ประชุมร่วมกับแผนกเพื่อรับทราบความต้องการของระบบ
+2. สัมภาษณ์ผู้ใช้งานรายบุคคล เก็บและสรุป Requirement
+3. สำรวจทรัพยากรภายในองค์กรและกำหนดขอบเขตโครงการ
+4. วิเคราะห์ Requirement และจัดทำ Use Case Scenario
+5. ออกแบบฐานข้อมูล
+6. ออกแบบส่วนติดต่อผู้ใช้งาน (Frontend)
+7. พัฒนาระบบส่วน Backend
+8. ทดสอบระบบ
+9. นำระบบขึ้นใช้งานบน Server (Deploy)
+10. จัดทำเอกสาร WI (Work Instruction) และ Workflow
+11. ฝึกอบรมผู้ใช้งาน
+12. เปิดใช้งานจริง (Go-live)
 
 ---
 
 ### Tech
 
-Backend: PHP 8, Laravel 12, MySQL, MS SQL Server
-Frontend: Blade, Tailwind CSS, Vite, React, JavaScript
-Other: Git, XAMPP, Figma, Power BI
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), Blade, Tailwind CSS, Bootstrap 5, Alpine.js, React, Vite, Axios, Chart.js, SweetAlert2, AOS, Bootstrap Icons, Font Awesome, Lucide Icons, Responsive Design, PWA
+
+**Backend:** PHP 8, Laravel 12, Eloquent ORM, Middleware, Queue and Jobs, Task Scheduling, Mail Notification, Artisan Commands, Webhook, Cache, File Storage, Localization (TH, EN, MY), QR Code, Laravel Excel, PhpSpreadsheet
+
+**Database:** MySQL, Microsoft SQL Server, ODBC, Database Design, Migrations, ERP Integration
+
+**Tools and Others:** Git, GitHub, Composer, npm, XAMPP, Apache, VS Code, PowerShell, PHPUnit, Mockery, Laravel Pint, Figma, Power BI
 
 ---
 
@@ -87,5 +98,7 @@ These repositories contain source code only. Databases, user uploads and any scr
 ### Contact
 
 Email: [Pumiputc3210@gmail.com](mailto:Pumiputc3210@gmail.com)
+
 Facebook: [PumiputC](https://facebook.com/PumiputC)
+
 Instagram: [cgame._](https://instagram.com/cgame._)
