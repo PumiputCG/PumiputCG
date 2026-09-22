@@ -1,9 +1,6 @@
 ## Pumiput Chaichat
 
-Software Engineer | Thailand
-Computer Science, Thammasat University
-
-Currently open to new opportunities.
+Software Engineer | Thammasat University
 
 ---
 
