@@ -6,7 +6,7 @@ Software Engineer | Thammasat University
 
 ### About
 
-  สวัสดีครับ ผมชื่อ ภูมิพัฒน์ หรือเรียกว่า เกม ก็ได้ครับ ผมจบการศึกษาสาขาวิทยาการคอมพิวเตอร์จากมหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต ปัจจุบันทำงานในตำแหน่ง Software Engineer ให้กับบริษัทผลิตชิ้นส่วนรถยนต์แห่งหนึ่งในภาคตะวันออก
+  สวัสดีครับ ผมชื่อ ภูมิพัฒน์ หรือเรียกว่า เกม ก็ได้ครับ ผมจบการศึกษาจากมหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต ปัจจุบันทำงานในตำแหน่ง Software Engineer ให้กับบริษัทผลิตชิ้นส่วนรถยนต์แห่งหนึ่งในภาคตะวันออก
 
 งานที่ผมรับผิดชอบค่อนข้างครอบคลุมตั้งแต่ต้นจนจบ ตั้งแต่การพูดคุยกับผู้ใช้งานและหัวหน้าแต่ละแผนกเพื่อเก็บ Requirement วิเคราะห์ปัญหา ออกแบบฐานข้อมูล วางโครงสร้างระบบ พัฒนา Frontend และ Backend ไปจนถึงการ Deploy ระบบขึ้น Server ของบริษัท รวมถึงดูแลและปรับปรุงระบบหลังจากนำไปใช้งานจริง
 
@@ -22,7 +22,7 @@ Software Engineer | Thammasat University
 
 
 
-  Hello, my name is Phumiphat, but you can call me Game. I graduated with a degree in Computer Science from Thammasat University, Rangsit Campus. I am currently working as a Software Engineer at an automotive parts manufacturing company in Eastern Thailand.
+  Hello, my name is Phumiphat, but you can call me Game. I graduated from Thammasat University, Rangsit Campus. I am currently working as a Software Engineer at an automotive parts manufacturing company in Eastern Thailand.
 
 My responsibilities cover almost the entire software development process. I work directly with users and department managers to gather requirements, analyze problems, design databases and system architecture, develop both Frontend and Backend, deploy applications to the company server, and continue maintaining and improving them after they go live.
 
