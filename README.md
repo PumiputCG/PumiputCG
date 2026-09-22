@@ -30,7 +30,7 @@ One of the systems I built won first prize for measurably reducing operating cos
 | Project | What it solves | Stack |
 |---|---|---|
 | [Supavut Insight](https://github.com/PumiputCG/supavut-insight-hr-hub) | HR hub รวมสี่ระบบไว้ในบัญชีเดียว ทั้งประเมินผล ตรวจ 5ส อนุมัติ OT และลา รวมถึงรับสมัครงาน แต่ละคนเห็นเฉพาะส่วนที่เกี่ยวข้องกับตัวเอง | Laravel 12, MySQL, SQL Server |
-| [BMS](https://github.com/PumiputCG/supavut-bms) | แดชบอร์ดงบประมาณที่แยกงบที่ตั้งไว้ ยอดสั่งซื้อ และเงินที่ใช้จริงออกจากกัน ทุกตัวเลขเปิดดูเอกสารต้นทางได้ | Laravel 12, ERP integration |
+| [SBMS](https://github.com/PumiputCG/supavut-bms) | แดชบอร์ดงบประมาณที่แยกงบที่ตั้งไว้ ยอดสั่งซื้อ และเงินที่ใช้จริงออกจากกัน ทุกตัวเลขเปิดดูเอกสารต้นทางได้ | Laravel 12, ERP integration |
 | [QuoteCompare](https://github.com/PumiputCG/quote-compare) | ย้ายใบเปรียบเทียบราคาผู้ขายจาก Excel และลายเซ็นกระดาษขึ้นเว็บ โดยคงรูปแบบเอกสารเดิมไว้ทุกช่อง | Laravel 12, MySQL |
 | [OKR and KPI System](https://github.com/PumiputCG/okr-kpi-system) | ติดตาม OKR และ KPI รายเดือนข้ามแผนก แทนการที่แต่ละแผนกถือไฟล์ของตัวเอง | Laravel 12, MySQL |
 | [Penalty and Bonus](https://github.com/PumiputCG/supavut-penalty-bonus) | ระบบคะแนนพฤติกรรมพนักงานที่ทุกคะแนนมีประวัติครบ ตอบได้ว่าใครเป็นคนปรับ เมื่อไหร่ และด้วยเหตุผลอะไร | Laravel 12, MySQL |
