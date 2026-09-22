@@ -45,20 +45,16 @@ My goal is to continue growing in the field of Software Engineering, not only by
 | Project | What it solves |
 |---|---|
 | [FraudCheck](https://github.com/PumiputCG/FraudCheck_Project) | เว็บค้นหาบัญชีมิจฉาชีพที่ถูกแจ้งไว้ ให้ผู้ใช้ตรวจสอบก่อนโอนเงิน |
-| [QuickCV](https://github.com/PumiputCG/QuickCV_Project) | กรอกข้อมูลส่วนตัวแล้วสร้าง CV พร้อมใช้สมัครงานได้ทันที |
-| [S-Insight](https://github.com/PumiputCG/s-insight) | HR hub ที่รวมระบบ HR ทั้งหมดไว้ในบัญชีเดียว พนักงานล็อกอินครั้งเดียวแล้วเห็นเฉพาะระบบที่เกี่ยวข้องกับตัวเอง |
-| [SAssessment](https://github.com/PumiputCG/sassessment) | ประเมินผลพนักงานประจำปี นำเข้ารายชื่อจาก Excel พนักงานประเมินตัวเองก่อนหัวหน้าให้คะแนน แล้วล็อกรอบเมื่อปิดเพื่อไม่ให้แก้ย้อนหลัง |
-| [Penalty and Bonus](https://github.com/PumiputCG/penalty-bonus) | ระบบคะแนนพฤติกรรมพนักงานที่ทุกคะแนนมีประวัติครบ ตอบได้ว่าใครเป็นคนปรับ เมื่อไหร่ และด้วยเหตุผลอะไร |
-| [S-Insight Showcase](https://github.com/PumiputCG/s-insight-showcase) | เว็บรวมระบบภายในทั้งหมดไว้หน้าเดียว กดเข้าแต่ละระบบได้ทันที |
+| [QuickCV](https://github.com/PumiputCG/QuickCV_Project) | ระบบสร้าง Resume อัตโนมัติสำหรับใช้สมัครงาน |
+| [S-Insight](https://github.com/PumiputCG/s-insight) | ระบบศูนย์กลางของแผนก HR ดึงข้อมูลพนักงานจาก ERP ของบริษัท แล้วกระจายไปยัง Module ย่อยทั้งหมด |
+| [SAssessment](https://github.com/PumiputCG/sassessment) | ระบบประเมินผลประจำปี คำนวณคะแนนตามสัดส่วนน้ำหนักของแต่ละบุคคล เช่น Attendance, Individual Performance, Department OKR และ Company OKR แล้วสรุปเป็นคะแนนและเกรดประจำปี |
+| [Penalty and Bonus](https://github.com/PumiputCG/penalty-bonus) | ระบบเพิ่มและหักคะแนนความประพฤติของพนักงาน ใช้แทนการออกใบเตือนทันทีแบบเดิม เพื่อไม่ให้ประวัติของพนักงานเสียหายโดยไม่จำเป็น |
 | [OKR and KPI System](https://github.com/PumiputCG/okr-kpi-system) | ติดตาม OKR และ KPI รายเดือนข้ามแผนก แทนการที่แต่ละแผนกถือไฟล์ของตัวเอง |
-| [S-Portal](https://github.com/PumiputCG/s-portal) | พอร์ทัลพนักงานรุ่นแรก รวมลิงก์ระบบภายในและประกาศบริษัทไว้ที่เดียว ต่อยอดเป็น SI MENU ในภายหลัง |
-| [OKR-KPI Presentation](https://github.com/PumiputCG/okr-kpi-prototype) | หน้าเว็บนำเสนอระบบ OKR-KPI ใช้อบรมผู้ใช้งาน อธิบายขั้นตอนตั้งเป้าหมาย ส่งรายงาน ตรวจรายงาน และดูผลสรุป |
-| [Personal Website](https://github.com/PumiputCG/pumiput-portfolio) | เว็บส่วนตัวสองภาษา เล่าเรื่องผ่านภาพถ่าย เขียนด้วย PHP และ JavaScript โดยไม่ใช้เฟรมเวิร์ก |
-| [SI MENU](https://github.com/PumiputCG/si-menu-intranet) | พอร์ทัลพนักงานที่รวมระบบภายใน ประกาศบริษัท และทะเบียนเอกสาร รองรับไทย อังกฤษ และพม่า |
-| [5S Areas](https://github.com/PumiputCG/s-insight) | ตรวจพื้นที่ 5ส ทั้งโรงงาน วางผังพื้นที่ กำหนดผู้รับผิดชอบรายโซน บันทึกผลตรวจพร้อมแนบรูป และออกรายงานประจำรอบ |
-| [QuoteCompare](https://github.com/PumiputCG/quote-compare) | ย้ายใบเปรียบเทียบราคาผู้ขายจาก Excel และลายเซ็นกระดาษขึ้นเว็บ โดยคงรูปแบบเอกสารเดิมไว้ทุกช่อง |
-| [Time and Leave Approval](https://github.com/PumiputCG/s-insight) | ขอทำงานล่วงเวลาและยื่นใบลาบนเว็บ เดินตามลำดับอนุมัติจริงขององค์กร ติดตามสถานะได้ทุกขั้น และออกรายงานลา 75 |
-| [SBMS](https://github.com/PumiputCG/sbms) | แดชบอร์ดงบประมาณที่แยกงบที่ตั้งไว้ ยอดสั่งซื้อ และเงินที่ใช้จริงออกจากกัน ทุกตัวเลขเปิดดูเอกสารต้นทางได้ |
+| [SI MENU](https://github.com/PumiputCG/si-menu-intranet) | ระบบพอร์ทัลที่รวบรวมซอฟต์แวร์ภายในองค์กรไว้ในที่เดียว พร้อมช่องทางประกาศข่าวสารถึงพนักงาน |
+| [5S Areas](https://github.com/PumiputCG/s-insight) | ระบบตรวจพื้นที่ 5ส (สะสาง สะดวก สะอาด สุขลักษณะ สร้างนิสัย) ให้พนักงานถ่ายภาพโต๊ะทำงานหรือพื้นที่ที่รับผิดชอบ แล้วอัปโหลดเข้าระบบเพื่อรายงานผล |
+| [QuoteCompare](https://github.com/PumiputCG/quote-compare) | ระบบเปรียบเทียบราคาของแผนกจัดซื้อ เทียบราคาสินค้าที่ผู้ขอซื้อต้องการจากหลาย Supplier เพื่อคัดเลือกข้อเสนอที่คุ้มค่าที่สุดให้แก่บริษัท |
+| [Time and Leave Approval](https://github.com/PumiputCG/s-insight) | ระบบเสริมสำหรับยื่นขอทำงานล่วงเวลา (OT) และลากิจแบบรับค่าจ้าง 75% โดยดึงข้อมูลพนักงานจาก ERP ที่บริษัทใช้งานอยู่ |
+| [SBMS](https://github.com/PumiputCG/sbms) | ระบบบริหารงานจัดซื้อครบวงจร ตั้งแต่ขออนุมัติงบประมาณ เปิด PR เปรียบเทียบ Supplier ออก PO ลงทะเบียนทรัพย์สิน (Asset) จนถึงออกใบ 50 ทวิ โดยทำงานเสริมกับ ERP ของบริษัท |
 
 ดูทั้งหมดได้ที่ [repositories](https://github.com/PumiputCG?tab=repositories)
 
